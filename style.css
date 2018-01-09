@@ -1,0 +1,38 @@
+body {
+  font-family: Helvetica;
+  margin: 20px;
+}
+#foot{
+    text-align: center;
+}
+#jumbo{
+    text-align: center;
+    background-color: #F7F7F7;
+}
+h1{
+   color: #25426F;
+}
+h4{
+   color: #25426F;
+}
+#centerValid{
+    text-align: center;
+}
+.card-header{
+    background-color: #28A745;
+    color: whitesmoke;
+}
+#date{
+    color: #25426F;
+}
+#sessionBienvenue{
+    color: #28A745;
+}
+#errorMessage{
+    color: red;
+    margin-top: 0.3em;
+}
+#errorMessageIns{
+    color: red;
+    margin-top: 0.3em;
+}
